@@ -1,0 +1,2 @@
+# Assignment 2
+Open the `CS671_Assignment_2_2019_.pdf` for the problem statements. Codes for task1, task2 and task3 are in the folder `Task1_CNN`, `Task2_MultiHead` and `Task3_Visualization` respectively.

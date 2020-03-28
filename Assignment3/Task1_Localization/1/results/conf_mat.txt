@@ -1,0 +1,7 @@
+Conf matrix for classification:
+[[1188    0  553]
+ [   0 1147   25]
+ [   0    6  328]]
+Conf matrix for regression:
+[[3247]]
+
